@@ -12,5 +12,3 @@ Some of my open-source history:
   The maintainer is adopting the approach for v10.
 - **[pyMOR](https://docs.pymor.org/2025-2-2/tutorial_ph.html)** (2024):
   contributed a spectral factorization method to this Python library for model order reduction.
-
-Work history: [LinkedIn](https://www.linkedin.com/in/steffen-muller)
