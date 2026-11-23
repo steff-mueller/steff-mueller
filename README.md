@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**steff-mueller/steff-mueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Steffen, a software engineer based in Germany with a background in applied mathematics.
 
-Here are some ideas to get you started:
+Some of my open-source history:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ServiceStack](https://github.com/ServiceStack/ServiceStack/commits?author=steff-mueller)** (2011–2013):
+  past core contributor to this .NET web services framework. Built request validation,
+  role- and permission-based authorization, and request/response filters.
+- **[react-virtualized](https://github.com/bvaughn/react-virtualized/pull/124#issuecomment-6252253739)** (2016):
+  found that every visible row re-rendered on every scroll and proposed stable cell keys.
+  The maintainer is adopting the approach for v10.
+- **[pyMOR](https://docs.pymor.org/2025-2-2/tutorial_ph.html)** (2024):
+  contributed a spectral factorization method to this Python library for model order reduction.
