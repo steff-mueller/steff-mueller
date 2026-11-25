@@ -5,7 +5,7 @@ Some of my open-source history:
   and a [port-Hamiltonian tutorial](https://docs.pymor.org/2025-2-2/tutorial_ph.html)
   to this Python library for model order reduction.
 - **[react-virtualized](https://github.com/bvaughn/react-virtualized)** (27k stars, 2016):
-  [tracked down a scrolling regression](https://github.com/bvaughn/react-virtualized/pull/124)
+  [tracked down a performance regression](https://github.com/bvaughn/react-virtualized/pull/124)
   where cell keys changed on every render, forcing React to re-render visible rows on each scroll. Fixed in
   [v10.0](https://github.com/bvaughn/react-virtualized/pull/124#issuecomment-6252253739).
 - **[supertest](https://github.com/forwardemail/supertest)** (14k stars, 2013):
